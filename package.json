@@ -1,7 +1,6 @@
 {
   "name": "@scylla-digital/framed",
   "version": "0.0.1",
-  "private": false,
   "main": "dist-cjs/index.js",
   "dependencies": {
     "@emotion/react": "^11.9.0",
